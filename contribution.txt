@@ -1,0 +1,1 @@
+Barnabe Evouna: Lecture fichier csv, calcul moyenne,minimum, maximum, affichage de la console et generation du rapport day csv
